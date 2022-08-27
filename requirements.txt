@@ -1,0 +1,6 @@
+numpy==1.21.3
+opencv-python==4.5.4.58
+tqdm==4.62.3
+# uncomment following two packages if you want to use PyTorch on cpu only
+# torch==1.10.0
+# torchvision==0.11.1
